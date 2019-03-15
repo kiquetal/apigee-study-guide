@@ -14,18 +14,26 @@
    
     API SERVICES
         API GATEWAY
+            - ROUTER
+            - MESSAGE PROCCESOR
+            - ENTERPRISE UI
+            - MANAGMENT SERVER
         POLICIES
         OAUTH
         VERSIONING
         
     DEVELOPERS SERVICES
         API PORTAL
+            mySQL
         SMART DOCS
         MONEYTIZATION
         
      ANALYTICS SERVICES
+        
         DEVELOPER ANALYTICS
-        OPS 
+        OPS
+            QPID postgresql 
+             
         APP PERFOMANCE
         CUSTOM REPORTS
         
@@ -35,11 +43,12 @@
     Intellinget API
     API protection
     
-  APIGEE MONEYTIZATION
+  APIGEE MONETIZATION
   
     VARIOS RENEVUE MODELS
     PAYMENTS AND BILLING
     FLEXIBLE REPORTING
     Developer PORTAL INTEGRATION
+    
     
     
